@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴄʜᴀᴛʙᴏᴛ 」──
+    ──「 ɪᴅ ᴄʜᴀᴛʙᴏᴛ 」──
 </h2>
 <p align="center">
   <img src="https://graph.org/file/a5c4254679b965d725418.jpg">
