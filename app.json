@@ -24,7 +24,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "A Pyrogram v2 String session from @Venom_String_robot",
+      "description": "A Pyrogram v2 String session from @tmm_String_bot",
       "required": true,
       "value": ""
     },
